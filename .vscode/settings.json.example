@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\korydonati\\.virtualenvs\\tf_test-3zYd-Rl6\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
